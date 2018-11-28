@@ -2,15 +2,11 @@
 layout: post
 title: Job skill bingo
 subtitle: Each post also has a subtitle
-Author : Gunnar Kleeman MIDS Ph.D
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [Job ad, data science skills, knowledge graph]
+tags: [test]
 ---
-Ever notice how important using the exact right keywords is in a resume? It's like recruiters just search for a few keywords, and don't even read past that point, right? We developed a solution for that, which helps a user identify the best keywords for different jobs. A variation of our system can also help recruiters identify qualified recruits by searching for job skills (by keyword clusters, instead of specific words only).
-
-
-To build the system we  
+Ever notice how important using the exact right keywords is in a resume? It's like recruiters just search for a few keywords, and don't even read past that point, right? We developed a solution for that, which helps a user identify the best keywords for different jobs. A variation of our system can also help recruiters identify qualified recruits by searching for job skills (by keyword clusters, instead of specific words only.
 
 ---
 
