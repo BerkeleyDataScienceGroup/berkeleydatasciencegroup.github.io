@@ -30,7 +30,7 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "https://scontent-dfw5-1.xx.fbcdn.net/v/t1.15752-9/46988934_1812934038829907_4570313242710114304_n.png?_nc_cat=107&_nc_ht=scontent-dfw5-1.xx&oh=1d8696adaa3879e641980fc637a719ca&oe=5C65A96A"
+avatar: "https://avatars1.githubusercontent.com/u/30377468?s=200&v=4"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
