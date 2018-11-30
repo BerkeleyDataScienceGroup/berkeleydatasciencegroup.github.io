@@ -174,21 +174,6 @@ img {
   width: 200px;
   margin-top: -25px;
 }
-.navbar-custom .avatar-container  .avatar-img-border {
-  width: 100%;
-  border-radius: 0%;
-  margin-left: -50%;
-  display: inline-block;
-  box-shadow: 0 0 8px rgba(0, 0, 0, .8);
-  -webkit-box-shadow: 0 0 5px rgba(0, 0, 0, .8);
-  -moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
-}
-.navbar-custom .avatar-container  .avatar-img {
-  width: 100%;
-  border-radius: 0%; 
-  display: block;
-}
-
 .navbar-custom.top-nav-expanded .avatar-container  {
   display: none;
 }
