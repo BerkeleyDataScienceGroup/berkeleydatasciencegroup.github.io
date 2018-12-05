@@ -238,6 +238,11 @@ prose:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+# --------------------------------------------------------
+jekyll_analytics:
+  GoogleAnalytics:          # Add, if you want to track with Google Analytics
+    id: UA-130208469-1         # Required - replace with your tracking id
+    anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
