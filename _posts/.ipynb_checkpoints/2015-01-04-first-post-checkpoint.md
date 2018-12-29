@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: About The Berkeley Data Science Group
 image: /img/hello_world.jpeg
 ---
