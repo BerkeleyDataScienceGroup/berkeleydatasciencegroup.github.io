@@ -143,8 +143,8 @@ img {
   transition: padding .5s ease-in-out;
 }
 .navbar-custom .navbar-brand-logo img {
-  height: 60px;
-  border-radius: 120px                            /* radius test */
+  height: 120px;
+  border-radius: 60px                            /* radius test */
   -webkit-transition: height .5s ease-in-out;
   -moz-transition: height .5s ease-in-out;
   transition: height .5s ease-in-out;
