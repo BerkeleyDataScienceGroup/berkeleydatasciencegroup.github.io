@@ -182,7 +182,15 @@ img {
   -webkit-box-shadow: 0 0 5px rgba(0, 0, 0, 0);
   -moz-box-shadow: 0 0 8px rgba(0, 0, 0, 0);
 }
+.navbar-custom .avatar-container  .avatar-img {
+  width: 100%;
+  border-radius: 50%;
+  display: block;
+}
 
+.navbar-custom.top-nav-expanded .avatar-container  {
+  display: none;
+}
 @media only screen and (min-width: 768px) {
   .navbar-custom .avatar-container {
     width: 100px;
