@@ -1,14 +1,23 @@
 ---
 layout: page
-title: About The Berkeley Data Science Group
-image: /img/dg1.png
+title: Portfolio
+image: /img/bds1red.png
 ---
 
-The Berkeley Data Science Group (BDSG) was founded by two Alumni of the Berkeley iSchool Data Science program at the school of information to act as a conduit between the best talent and ideas at Berkeley and the broader community. 
+###Welcome to The BDSG Portfolio page
+Demos of our data science projects
 
-To further this mission we:
-- Teach and advise on data science at UC Berkeley and beyond
-- Interface with business leaders to Identify new applications for data science
-- Provide custom data science solutions
-- Mentor talented data scientist early in their career
+###Pigeon
+Don’t get pigeonholed in your current job, we parsed 40,000
 
+###Job site Req; the want ad graph
+Leveling the information assymetry between job seekers and headunters
+
+###Bio-revolutions;
+predicting winners and loosers in biotechnology circa 2016
+
+###Pubmed lit; the biomedical publication graph
+Quantifying scientists by studying thier publication behavior
+
+###Thoth
+Named after the scribe to the gods. Thoth looks over your shoulder as you write, making sure you're striking the cord you're looking for.
