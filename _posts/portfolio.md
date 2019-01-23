@@ -1,4 +1,6 @@
-layout|title|img
+---
+page
+---
 
 Welcome to The BDSG Portfolio page
 Demos of our data science projects
