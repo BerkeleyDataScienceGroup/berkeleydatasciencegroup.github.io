@@ -24,8 +24,7 @@ navbar-links:
      - Conferences/Publications: "http://www.bds.group/conferencespublications.html"
   #Resources:
   #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-  #Portfolio: "https://berkeleydatasciencegroup.github.io/portfolio"
-  Portfolio: "/_posts/portfolio.md"
+  Portfolio: "https://berkeleydatasciencegroup.github.io/portfolio"
   Training: "https://berkeleydatasciencegroup.github.io/minicamps"
 
 
