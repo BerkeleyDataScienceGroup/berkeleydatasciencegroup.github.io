@@ -8,8 +8,8 @@ url: "https://berkeleydatasciencegroup.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
-url: "http://berkeleydatasciencegroup.github.io/minicamps"
-baseurl: "/projectname"
+#url: "http://berkeleydatasciencegroup.github.io/minicamps"
+#baseurl: "/projectname"
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
