@@ -25,6 +25,7 @@ navbar-links:
   About US:
      - Founding team: "http://www.bds.group/founding-team.html"
      - Conferences/Publications: "http://www.bds.group/conferencespublications.html"
+     - Changelog: "https://berkeleydatasciencegroup.github.io/CHANGELOG.md"
   #Resources:
   #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   Portfolio: "https://berkeleydatasciencegroup.github.io/portfolio"
@@ -34,7 +35,7 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: img/bdsg1red.png
+##avatar: img/bdsg1red.png
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -178,7 +179,6 @@ link-tags: true
 
 # Exclude these files from production site
 exclude:
-  - CHANGELOG.md
   - CNAME
   - Dockerfile
   - Gemfile
