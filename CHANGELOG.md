@@ -1,3 +1,9 @@
+---
+layout: page
+title: About me
+subtitle: This is a test page
+---
+ 
  # CHANGELOG
 
 This file lists all non-trivial changes to Beautiful Jekyll.
