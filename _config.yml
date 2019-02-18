@@ -23,13 +23,12 @@ description: A virtual proof that name is awesome!
 # List of links in the navigation bar
 navbar-links:
   About US:
-     - Founding team: "http://www.bds.group/founding-team.html"
-     - Conferences/Publications: "http://www.bds.group/conferencespublications.html"
-     - Changelog: "https://berkeleydatasciencegroup.github.io/CHANGELOG.md"
+     - Founding team: "http:///berkeleydatasciencegroup.github.io/founding-team.md"
+     - Conferences/Publications: "http://berkeleydatasciencegroup.github.io/publications.md"
   #Resources:
   #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-  Portfolio: "https://berkeleydatasciencegroup.github.io/portfolio"
-  Training: "https://berkeleydatasciencegroup.github.io/"
+  Portfolio: "https://berkeleydatasciencegroup.github.io/portfolio.md"
+  Training: "https://berkeleydatasciencegroup.github.io/training.md"
   # minimal/2015-01-04-aboutme/"
 
 
