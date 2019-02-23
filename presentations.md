@@ -2,7 +2,7 @@
 ---
 layout: page
 title: Berkeley Data Science Group presentations
-image:bdsglong5.png
+image: bdsglong5.png
 ---
 
 1/27/18: Data day Texas ,    https://datadaytexas.com/2018/sessions#bdsg2
