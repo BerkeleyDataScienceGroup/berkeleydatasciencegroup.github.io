@@ -1,4 +1,10 @@
-## PRESENTATIONS
+
+---
+layout: page
+title: Berkeley Data Science Group presentations
+image:bdsglong5.png
+---
+
 1/27/18: Data day Texas ,    https://datadaytexas.com/2018/sessions#bdsg2
 Biorevolutions: Machine Learning & Graph Analysis Illuminate Biotechnology Startup Success.
 Silicon Valley vs New York: Who has Better Data Scientists? (a knowledge graph)
