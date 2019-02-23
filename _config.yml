@@ -24,7 +24,7 @@ description: A virtual proof that name is awesome!
 navbar-links:
   About US:
      - Founding team: "http:///berkeleydatasciencegroup.github.io/founding-team"
-     - Conferences/Publications: "http://berkeleydatasciencegroup.github.io/publications"
+     - Conferences/Publications: "https://berkeleydatasciencegroup.github.io/presentations"
   #Resources:
   #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   Portfolio: "https://berkeleydatasciencegroup.github.io/portfolio"
