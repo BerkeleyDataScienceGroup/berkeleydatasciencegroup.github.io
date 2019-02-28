@@ -13,9 +13,9 @@ http://cognitive-science.info/community/weekly-update/
 4/13/18: Cisco; [Data Science Guest Speaker Series 
 Graph Databases for Dynamic Recommender Systems and Outlier Detection](https://github.com/BerkeleyDataScienceGroup/BDSGpresentations/blob/master/CiscoGraphsPres.pdf)
 
-1/27/18: Data day Texas ,    https://datadaytexas.com/2018/sessions#bdsg2
-Biorevolutions: Machine Learning & Graph Analysis Illuminate Biotechnology Startup Success.
-Silicon Valley vs New York: Who has Better Data Scientists? (a knowledge graph)
+1/27/18: Data day Texas,
+[Biorevolutions: Machine Learning & Graph Analysis Illuminate Biotechnology Startup Success.
+Silicon Valley vs New York: Who has Better Data Scientists?](https://github.com/BerkeleyDataScienceGroup/BDSGpresentations/blob/master/Biorevs.pdf) (a knowledge graph)
 
 10/20/17: Graph Day at Data Day Seattle 
 https://www.meetup.com/seattle-bellevue-graph-database/events/241079368/
