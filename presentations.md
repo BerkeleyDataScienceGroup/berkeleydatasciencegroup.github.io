@@ -10,8 +10,8 @@ Come listen April 4th from 3:30 - 4:10 as Gunnar gives a presentation on Biorevs
 5/10/18: Cognitive systems institute group weekly update (IBM) 2018 
 http://cognitive-science.info/community/weekly-update/
 
-4/13/18: Cisco; Data Science Guest Speaker Series 
-Graph Databases for Dynamic Recommender Systems and Outlier Detection
+4/13/18: Cisco; [Data Science Guest Speaker Series 
+Graph Databases for Dynamic Recommender Systems and Outlier Detection](https://github.com/BerkeleyDataScienceGroup/BDSGpresentations/blob/master/CiscoGraphsPres.pdf)
 
 1/27/18: Data day Texas ,    https://datadaytexas.com/2018/sessions#bdsg2
 Biorevolutions: Machine Learning & Graph Analysis Illuminate Biotechnology Startup Success.
