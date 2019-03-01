@@ -1,9 +1,10 @@
-
 ---
 layout: page
 title: Berkeley Data Science Group presentations
 image: bdsglong5.png
 ---
+
+
 UPCOMING: 4/3-5/2019: [AnacondaCON 2019](https://anacondacon.io/location)
 Come listen April 4th from 3:30 - 4:10 as Gunnar gives a presentation on Biorevs, and using Data Science to predict success of Biotech startups.
 
