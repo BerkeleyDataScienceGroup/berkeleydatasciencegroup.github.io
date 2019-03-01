@@ -5,8 +5,17 @@ image: bdsglong5.png
 ---
 
 
-UPCOMING: 4/3-5/2019: [AnacondaCON 2019](https://anacondacon.io/location)
-Come listen April 4th from 3:30 - 4:10 as Gunnar gives a presentation on Biorevs, and using Data Science to predict success of Biotech startups.
+### Upcoming: 
+
+April 4 3:30 in Austin TX at [AnacondaCON 2019](https://anacondacon.io/location)
+
+Gunnar will give a presentation on **Biorevs**, and using Data Science to predict success of Biotech startups.
+
+April 2019: in Mountain View, CA at [DevNet 2019](https://developer.cisco.com/devnetcreate/2019) !
+
+Denis will talk about some of our newest projects
+
+### Past
 
 5/10/18: [Cognitive systems institute group weekly update (IBM) 2018 ](https://github.com/BerkeleyDataScienceGroup/BDSGpresentations/blob/master/IBM_CSIG_GraphPres.pdf)
 
