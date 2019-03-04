@@ -14,7 +14,9 @@
   </div>
 </div> 
 
-![Denis]("img/DVrdoljak.jpg")
+![Denis]("/img/DVrdoljak.jpg")
+![Denis2]("../img/DVrdoljak.jpg")
+![Denis3]("img/DVrdoljak.jpg")
 
 Gunnar Kleemann, Ph.D.: Gunnar's research focus is in the intersection of Data Science and Biotechnology. He did post-doctoral research on the Genomics of Aging at Princeton, and holds a Master's in Data Science from UC Berkeley and a Ph.D. in Molecular Genetics. Gunnar is a Senior Data Scientist at BDSG and is our domain expert in BioTech applications.
 
