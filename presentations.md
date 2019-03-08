@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Berkeley Data Science Group presentations
-image: bdsglong5.png
+image: img/bdsglong5.png
 ---
 
 
