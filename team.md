@@ -53,9 +53,9 @@ Denis is also a faculty member at the Leavey School of Business at Santa Clara U
 </div> 
 
 
-**Gunnar Kleemann, Ph.D.**: Gunnar's research focus is in the intersection of Data Science and Biotechnology. He did post-doctoral research on the Genomics of Aging at Princeton. He holds a Master's in Data Science from UC Berkeley and a Ph.D. in behavioral genetics. Gunnar is a Senior Data Scientist at BDSG and is our domain expert in BioTech applications and behavioral analysis.
+**Gunnar Kleemann, Ph.D.**: Gunnar's research focus is in the intersection of Data Science and Biotechnology. He did post-doctoral research on the Genomics of Aging at Princeton. Gunnar is a Senior Data Scientist at BDSG and is our domain expert in BioTech applications and behavioral analysis.
 
-Gunnar is also a faculty member at the UC Berkeley School of Information. He is based out of Austin.
+Gunnar is a faculty member at the UC Berkeley School of Information. He holds Master's degrees in Data Science from UC Berkeley, in behavioral ecology from UNL and Ph.D. in behavioral genetics from the Albert Einstien College of Medicine. He is based in Austin TX. 
 
 
 </div>
@@ -67,9 +67,7 @@ Gunnar is also a faculty member at the UC Berkeley School of Information. He is 
 
 **Kiersten Henderson Ph.D.** joined Berkeley Data Science Group and our partner company Austin Capital Data Corp.  She has over 15 years of expertise in Biomedical research.  Kiersten did her Postdoctoral research on the cell biology of aging at the Fred Hutchinson Cancer Research Center in Seattle.  She studied how interconnectivity between cellular subsystems exacerbates cellular decline and limits lifespan. At BDSG she is focused on using graph analysis to uncover hidden relationships in all kinds of data. 
 
-Kiersten is a Senior Data Scientist at BDSG and is our domain expert in Machine Learning Algorithms and Machine Vision.
-
-Kiesten holds a Master's in Data Science from UC Berkeley and a Ph.D. in Genetics from Cornel
+Kiersten is a Senior Data Scientist at BDSG and is our domain expert in Machine Learning Algorithms and Machine Vision. She holds a Master's in Data Science from UC Berkeley and a Ph.D. in Genetics from Cornell.
 
 
 
@@ -82,7 +80,5 @@ Kiesten holds a Master's in Data Science from UC Berkeley and a Ph.D. in Genetic
 
 **Matt Stevenson**  Matt has 10 years experience  working in developing countries doing research on public health.  With a Masters in Environmental Engineering from MIT, Matt has expertise in telemetry-assisted (IOT) monitoring of offgrid infrastructure in hard to reach places. Matt is graduating from the Masters in Data Science at UC Berkeley in early 2019.  At BDSG he is focused on building out data pipelines and projects for a number of our partners. 
 
-Matt is a Senior Data Scientist at BDSG and is our domain expert in Data Science Cloud Architecture and Machine Vision.
-
-He holds Master's degrees in  Data Science from UC Berkeley and in Environmental Engineering from MIT .
+Matt is a Senior Data Scientist at BDSG and is our domain expert in Data Science Cloud Architecture and Machine Vision. He holds Master's degrees in  Data Science from UC Berkeley and in Environmental Engineering from MIT.
 
