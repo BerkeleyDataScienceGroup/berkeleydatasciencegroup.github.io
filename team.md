@@ -1,9 +1,8 @@
-
-
 ---
 layout: page
 title: Our Team
-image:bdsglong5.png
+image: bdsglong5.png
+
 ---
 
 <div class="row">
