@@ -10,13 +10,13 @@ image: bdsglong5.png
 
   Denis is also a Data Science Instructor at UC Berkeley.
 
-<img src="{{ site.baseurl }}/img/drawingFl2.jpg">
+<img src="{{ site.baseurl }}../img/drawingFl2.jpg">
 
 ![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
 </div>
   <div class="col-md-4" markdown="1">
-  <img height="150px" class="center-block" src="img/DVrdoljak.jpg">
+  <img height="150px" class="center-block" src="../img/DVrdoljak.jpg">
   </div>
 </div> 
 
