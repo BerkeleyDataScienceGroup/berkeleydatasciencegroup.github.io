@@ -9,8 +9,10 @@ image: bdsglong5.png
   Denis Vrdoljak: Denis is an entrepreneur with a background in International Business, Intelligence Analysis, and Engineering Project Management. He holds a Master's degrees in  Data Science from UC Berkeley and in International Affairs from Texas A&M. Denis is our Managing Director and domain expert in Graph Theory and Network Analysis.
 
   Denis is also a Data Science Instructor at UC Berkeley.
+
 <img src="{{ site.baseurl }}/img/drawingFl2.jpg">
 
+![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
 </div>
   <div class="col-md-4" markdown="1">
