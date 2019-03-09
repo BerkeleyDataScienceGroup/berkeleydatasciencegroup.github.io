@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Our Team
-image: bdsglong5.png
+image: ../bdsglong5.png
 ---
 
 <div class="row">
@@ -23,10 +23,10 @@ image: bdsglong5.png
 
 </div>
   <div class="col-md-4" markdown="1">
-  <img height="100px" class="center-block" src="img/DVrdoljak.jpg">
-    <img height="100px" class="center-block" src="img/DVrdoljak.jpg">
-        <img height="100px" class="center-block" src="img/DVrdoljak.jpg">
-  <img height="100px" class="center-block" src="{{ site.baseurl }}/img/drawingFl2.jpg">
+  <img height="100px" class="center-block" src="../img/DVrdoljak.jpg">
+    <img height="100px" class="center-block" src="../img/DVrdoljak.jpg">
+        <img height="100px" class="center-block" src="../img/DVrdoljak.jpg">
+  <img height="100px" class="center-block" src="{{ site.baseurl }}../img/drawingFl2.jpg">
   </div>
   
   </div>
