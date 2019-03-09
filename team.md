@@ -6,45 +6,15 @@ image: /../bdsglong5.png
 
 Our data science staff are credentialed data scientists and/or or experts in their field with greater than ten years of experience. We have a broad range of proficiencies including intelligence analysis, bioinformatics, genomics,  biophysical modeling environmental resources management, web development, data science instruction, and robotics. 
 
-<div class="row">
-  <div class="col-md-8" markdown="1">
-
-**Denis Vrdoljak:** Denis is an entrepreneur with a background in Intelligence Analysis, International Business, and Engineering Project Management. He built his first startup into an international company before turning 25, and has since built Machine Learning models and custom BI solutions for some of the biggest tech companies. Denis brings his broad expertise in Marketing Analytics and Operations Management to the BDSG team. Denis is our Managing Director and domain expert in Graph Theory and Network Analysis.
-
-He holds Master's degrees in  Data Science from UC Berkeley and in International Affairs from Texas A&M. 
-
-Denis is also a faculty member at the Leavey School of Business at Santa Clara University. He is based out of Silicon Valley.
-
-
-</div>
+ </div>
   <div class="col-md-4" markdown="1">
   <img height="150px" class="center-block" src="../img/DVrdoljak.jpg">
   </div>
 </div> 
 
+**Denis Vrdoljak:** Denis is an entrepreneur with a background in Intelligence Analysis, International Business, and Engineering Project Management. He built his first startup into an international company before turning 25, and has since built Machine Learning models and custom BI solutions for some of the biggest tech companies. Denis brings his broad expertise in Marketing Analytics and Operations Management to the BDSG team. Denis is our Managing Director and domain expert in Graph Theory and Network Analysis.
 
-
-</div>
-  <div class="col-md-4" markdown="1">
-  <img height="100px" class="left-block" src="../img/DVrdoljak.jpg">
-    <img height="100px" class="center-block" src="../img/DVrdoljak.jpg">
-        <img height="100px" class="right-block" src="../img/DVrdoljak.jpg">
-  </div>
-</div>
-  
-  
-</div>
-  <div class="col-md-4" markdown="1">
-  <img height="100px" class="left-block" src="../img/DVrdoljak.jpg">
-    <div class="col-sm-4">.col-sm-4</div>
-    <img height="100px" class="center-block" src="../img/DVrdoljak.jpg">
-      <div class="col-sm-4">.col-sm-4</div>
-        <img height="100px" class="right-block" src="../img/DVrdoljak.jpg">
-  </div>
-</div>  
- 
-
-
+Denis is a faculty member at the Leavey School of Business at Santa Clara University. He is based out of Silicon Valley. He holds Master's degrees in  Data Science from UC Berkeley and in International Affairs from Texas A&M. 
 
 </div>
   <div class="col-md-4" markdown="1">
@@ -52,8 +22,7 @@ Denis is also a faculty member at the Leavey School of Business at Santa Clara U
   </div>
 </div> 
 
-
-**Gunnar Kleemann, Ph.D.**: Gunnar's research focus is in the intersection of Data Science and Biotechnology. He did post-doctoral research on the Genomics of Aging at Princeton. Gunnar is a Senior Data Scientist at BDSG and is our domain expert in BioTech applications and behavioral analysis.
+**Gunnar Kleemann, Ph.D.**: Gunnar's research focus is in the intersection of Data Science and Biotechnology. He did post-doctoral research on the Genomics of Aging at Princeton. Gunnar a co-founder and a principal Data Scientist at BDSG. He focuses on recruitement and enablement of our staff. He is also our domain expert in BioTech applications and behavioral analysis.
 
 Gunnar is a faculty member at the UC Berkeley School of Information. He holds Master's degrees in Data Science from UC Berkeley, in behavioral ecology from UNL and Ph.D. in behavioral genetics from the Albert Einstien College of Medicine. He is based in Austin TX. 
 
@@ -63,7 +32,6 @@ Gunnar is a faculty member at the UC Berkeley School of Information. He holds Ma
   <img height="150px" class="center-block" src="../img/kiersten_orig.jpg">
   </div>
 </div> 
-
 
 **Kiersten Henderson Ph.D.** joined Berkeley Data Science Group and our partner company Austin Capital Data Corp.  She has over 15 years of expertise in Biomedical research.  Kiersten did her Postdoctoral research on the cell biology of aging at the Fred Hutchinson Cancer Research Center in Seattle.  She studied how interconnectivity between cellular subsystems exacerbates cellular decline and limits lifespan. At BDSG she is focused on using graph analysis to uncover hidden relationships in all kinds of data. 
 
