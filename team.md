@@ -2,14 +2,9 @@
 
 ---
 layout: page
-title: X
+title: Our Team
 image:bdsglong5.png
 ---
-
-![Denis]("/img/DVrdoljak.jpg")
-![Denis2]("../img/DVrdoljak.jpg")
-![Denis3]("img/DVrdoljak.jpg")
-
 
 <div class="row">
   <div class="col-md-8" markdown="1">
@@ -17,22 +12,38 @@ image:bdsglong5.png
 
   Denis is also a Data Science Instructor at UC Berkeley.
 
-  </div>
+</div>
   <div class="col-md-4" markdown="1">
-  <!-- ![Alt Text](img/DVrdoljak.jpg) -->
-  <img height="600px" class="center-block" src="img/DVrdoljak.jpg">
+  <img height="150px" class="center-block" src="img/DVrdoljak.jpg">
   </div>
 </div> 
 
-![Denis]("/img/DVrdoljak.jpg")
-![Denis2]("../img/DVrdoljak.jpg")
-![Denis3]("img/DVrdoljak.jpg")
+
+</div>
+  <div class="col-md-4" markdown="1">
+  <img height="100px" class="center-block" src="img/DVrdoljak.jpg">
+    <img height="100px" class="center-block" src="img/DVrdoljak.jpg">
+        <img height="100px" class="center-block" src="img/DVrdoljak.jpg">
+  <img height="100px" class="center-block" src="{{ site.baseurl }}/img/drawingFl2.jpg">
+  </div>
+  
+  </div>
+  <div class="col-md-4" markdown="1">
+  <img height="100px" class="center-block" src="{{ site.baseurl }}/img/drawingFl2.jpg">
+  </div>
+
+<div class="row">
+  <div class="col-sm-4">.col-sm-4
+    <img height="100px" class="center-block" src="{{ site.baseurl }}/img/drawingFl2.jpg"></div>
+  <div class="col-sm-4">.col-sm-4</div>
+    <img height="100px" class="center-block" src="{{ site.baseurl }}/img/drawingFl2.jpg">
+  <div class="col-sm-4">.col-sm-4</div>
+    <img height="100px" class="center-block" src="{{ site.baseurl }}/img/drawingFl2.jpg">
+</div>
 
 Gunnar Kleemann, Ph.D.: Gunnar's research focus is in the intersection of Data Science and Biotechnology. He did post-doctoral research on the Genomics of Aging at Princeton, and holds a Master's in Data Science from UC Berkeley and a Ph.D. in Molecular Genetics. Gunnar is a Senior Data Scientist at BDSG and is our domain expert in BioTech applications.
 
 Gunnar is also a Data Science Instructor at UC Berkeley
 
-![Denis]("/img/DVrdoljak.jpg")
-![Denis2]("../img/DVrdoljak.jpg")
-![Denis3]("img/DVrdoljak.jpg")
+
 
