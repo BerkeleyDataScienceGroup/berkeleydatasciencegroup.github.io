@@ -1,9 +1,10 @@
 
 ## Welcome to The BDSG Portfolio page
+---
 
 Demos of our data science projects
 
----------
+---
 
 ## Pigeon
 Don't get pigeonholed in your current job, 
