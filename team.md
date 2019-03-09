@@ -3,7 +3,7 @@ layout: page
 title: Our Team
 ---
 
-Our data science staff are credentialed data scientists and/or or experts in their field with greater than ten years of experience. We have a broad range of proficiencies including intelligence analysis, bioinformatics, genomics,  biophysical modeling environmental resources management, web development, data science instruction, and robotics. 
+Our data science staff are credentialed data scientists and/or or experts in their field with greater than ten years of experience. We have a broad range of proficiencies including intelligence analysis, bioinformatics, genomics, biophysical modeling environmental resources management, web development, data science instruction, and robotics. 
 
   <div class="col-md-4" markdown="1">
   <img height="200px" class="center-block" src="../img/DVrdoljak.jpg">
@@ -11,7 +11,7 @@ Our data science staff are credentialed data scientists and/or or experts in the
 
 **Denis Vrdoljak:** Denis is an entrepreneur with a background in Intelligence Analysis, International Business, and Engineering Project Management. He built his first startup into an international company before turning 25, and has since built Machine Learning models and custom BI solutions for some of the biggest tech companies. Denis brings his broad expertise in Marketing Analytics and Operations Management to the BDSG team. Denis is our Managing Director and domain expert in Graph Theory and Network Analysis.
 
-Denis is a faculty member at the Leavey School of Business at Santa Clara University. He is based out of Silicon Valley. He holds Master's degrees in  Data Science from UC Berkeley and in International Affairs from Texas A&M. 
+Denis is a faculty member at the Leavey School of Business at Santa Clara University. He is based out of Silicon Valley. He holds Master's degrees in Data Science from UC Berkeley and in International Affairs from Texas A&M. 
 
 
   <div class="col-md-4" markdown="1">
@@ -19,9 +19,9 @@ Denis is a faculty member at the Leavey School of Business at Santa Clara Univer
   </div>
 
 
-**Gunnar Kleemann, Ph.D.**: Gunnar's research focus is in the intersection of Data Science and Biotechnology. He did post-doctoral research on the Genomics of Aging at Princeton. Gunnar a co-founder and a principal Data Scientist at BDSG. He focuses on recruitement and enablement of our staff. He is also our domain expert in BioTech applications and behavioral analysis.
+**Gunnar Kleemann, Ph.D.**: Gunnar's research focus is in the intersection of Data Science and Biotechnology. He did post-doctoral research on the Genomics of Aging at Princeton. Gunnar is a co-founder and a Principal Data Scientist at BDSG. He focuses on recruitment and enablement of our staff. He is also our domain expert in BioTech applications and behavioral analysis.
 
-Gunnar is a faculty member at the UC Berkeley School of Information. He holds Master's degrees in Data Science from UC Berkeley, in behavioral ecology from UNL and Ph.D. in behavioral genetics from the Albert Einstien College of Medicine. He is based in Austin TX. 
+Gunnar is a faculty member at the UC Berkeley School of Information. He holds Master's degrees in Data Science from UC Berkeley, in behavioral ecology from University of Nebraska - Lincoln and Ph.D. in behavioral genetics from the Albert Einstien College of Medicine. He is based in Austin, TX. 
 
   <div class="col-md-4" markdown="1">
   <img height="200px" class="center-block" src="../img/kiersten_orig.jpg">
@@ -35,7 +35,6 @@ Kiersten is a Senior Data Scientist at BDSG and is our domain expert in Machine 
   <img height="200px" class="center-block" src="../img/matt_orig.jpg">
   </div>
 
-**Matt Stevenson**  Matt has 10 years experience  working in developing countries doing research on public health.  With a Masters in Environmental Engineering from MIT, Matt has expertise in telemetry-assisted (IOT) monitoring of offgrid infrastructure in hard to reach places. Matt is graduating from the Masters in Data Science at UC Berkeley in early 2019.  At BDSG he is focused on building out data pipelines and projects for a number of our partners. 
+**Matt Stevenson**  Matt has 10 years experience  working in developing countries doing research on public health.  Matt has expertise in telemetry-assisted (IOT) monitoring of off grid infrastructure in hard to reach places.  At BDSG he is focused on building out data pipelines and projects for a number of our partners. 
 
-Matt is a Senior Data Scientist at BDSG and is our domain expert in Data Science Cloud Architecture and Machine Vision. He holds Master's degrees in  Data Science from UC Berkeley and in Environmental Engineering from MIT.
-
+Matt is a Senior Data Scientist at BDSG and is our domain expert in Data Science Cloud Architecture and Machine Vision. He holds Master's degrees in Data Science from UC Berkeley and in Environmental Engineering from Massachusetts Institute of Technology
