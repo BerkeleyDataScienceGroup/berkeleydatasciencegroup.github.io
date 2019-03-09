@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Our Team
+title-img: ../img/bdsglong5.png
 ---
 
 Our data science staff are credentialed data scientists and/or or experts in their field with greater than ten years of experience. We have a broad range of proficiencies including intelligence analysis, bioinformatics, genomics, biophysical modeling environmental resources management, web development, data science instruction, and robotics. 
