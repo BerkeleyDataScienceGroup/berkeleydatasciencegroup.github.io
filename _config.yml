@@ -29,7 +29,7 @@ navbar-links:
      - Conferences/Publications: "https://berkeleydatasciencegroup.github.io/presentations"
   #Resources:
   #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-  Portfolio: "https://berkeleydatasciencegroup.github.io/portfolio"
+  Portfolio: "https://berkeleydatasciencegroup.github.io/portfolio_"
   Training: "https://berkeleydatasciencegroup.github.io/training_contents"
   # minimal/2015-01-04-aboutme/"
   blog: "https://berkeleydatasciencegroup.github.io/blog"
