@@ -1,14 +1,15 @@
 
-## Welcome to The BDSG Portfolio page
+### Welcome to The BDSG Portfolio page
 ---
-
 Demos of our data science projects
+
+title-img: img/bdsglong5.png
 
 ---
 
 ## Pigeon
 Don't get pigeonholed in your current job, 
-we parsed 40,000
+we parsed 60,000 technical job ads and share the results
 
 ## Job site Req; the want ad graph
 Leveling the information assymetry between job seekers and headunters
