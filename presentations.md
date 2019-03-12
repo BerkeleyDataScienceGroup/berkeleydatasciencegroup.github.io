@@ -4,7 +4,6 @@ title: Presentations
 
 ---
 
-
 ### Upcoming: 
 
 April 4 3:30 in Austin TX at [AnacondaCON 2019](https://anacondacon.io/location)
