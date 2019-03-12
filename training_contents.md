@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Data Science Education
-subtitle: core modules for teaching
+subtitle: Core Modules for Teaching
 ---
 
 ##  OVERVIEW

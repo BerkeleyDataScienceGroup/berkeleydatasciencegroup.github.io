@@ -1,7 +1,6 @@
 ---
 layout: page
-title: X
-image:bdsglong5.png
+title: Our Roots
 ---
 
 The Berkeley Data Science Group (BDSG) was founded by two Alumni of the Berkeley iSchool Data Science program at the school of information to act as a conduit between the best talent and ideas at Berkeley and the broader community. 
