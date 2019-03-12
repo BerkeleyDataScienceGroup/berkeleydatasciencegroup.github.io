@@ -16,7 +16,7 @@ Denis is a faculty member at the Leavey School of Business at Santa Clara Univer
 
 
   <div class="col-md-4" markdown="1">
-  <img height="200px" class="center-block" src="../img/GKleemann.jpg">
+  <img height="200px" class="center-block" src="../img/team/GKleemann.jpg">
   </div>
 
 
