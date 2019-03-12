@@ -1,8 +1,6 @@
-
-### Welcome to The BDSG Portfolio page
 ---
-Title: Portfolio
-
+layout: page
+title: Portfolio
 ---
 
 ## Pigeon
