@@ -3,10 +3,14 @@ layout: page
 title: Portfolio
 ---
 
-## Web scrapes, Naural Language Processing, Community analysis, 
-We build the data science solutions that nobody else can. By applying leading-edge tools, techniques, and expertise to our customers’ data and business problems, we provide data science solutions that not only solve business pain points but also create new capabilities.
+By applying leading-edge data science tools and expertise to our customers’ data and business problems, we provide data science solutions that not only solve business pain points but also create new capabilities.
+
+Our shop tackles unique business problems with data science solutions. We have a proven track record of employng data science tools and techniques to find new buisiness solutions. 
  
-If you can bring us a problem, we can build your data science solution.
+#### If you can bring us a problem, we will build your data science solution.
+
+
+## Web scrapes, Naural Language Processing, Community analysis, Recommender Systems, ## Value Forcasting # Machine Learning based classificatiaon and prediction,  Bias Identification
 
 
 ## Recommender Systems
@@ -16,13 +20,14 @@ Now, their recruiters just pull up an app, based on a knowledge graph built from
 
 Not only does this improve the quality of their team, but it also shortens their recruiting cycles!
 
-#Pigeon
 
 ## Community Analysis
+
+Data Science can provide actionalable intellegence on which people know each other, what they are interested in ehat they are good at and who they have substantial realtionships with. With these goals in mind we conducted an analaysis of millons of publications recorded in the pubmed database.on medical publication data. Using the record of collaborations and topic matter recorded in millions pf publications we were able to determie In our pubmed Literture project we
 Pubmed lit - the biomedical publication graph
 Quantifying scientists by studying thier publication behavior
 
-## Valuation Forcasting
+## Value Forcasting
 Investing in a Biotech start-up? No, neither were we. But, we were tasked with building a tool to predict which Biotech start-ups would succeed (by reaching IPO), and what their projected IPO value would be. Our tool helps guide investment decisions, by providing quantitative valuation predictions and likelihoods to support traditional analysis in investment decisions.
 
 Do you need to estimate what your investments are projected to be worth? We can help. Need a model to predict which customers are going to buy your products? Awesome! We've built one of those too!
@@ -40,7 +45,7 @@ Along the way, we ended up building a tool that can be used to describe the infa
 (Under current development...check back soon for more info!)
 
 
-# Natural Language Proecessing
+# Natural Language Processing
 Thoth Named after the scribe to the gods. Thoth looks over your shoulder as you write
 
 #Pigeon

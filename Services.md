@@ -12,3 +12,25 @@ title-image: ../bdsglong5.png
  - Full custom solution buildout
 
 
+
+#### In our past projects we ahve built out sustems
+
+
+Web scrapes, 
+Natural Language Processing, 
+Community analysis, 
+Recommender Systems,
+Value Forcasting 
+Machine Learning based classificatiaon 
+Machone learnng based  prediction,  
+Bias Identification
+Distributed computing
+
+
+# educational activites
+ Corporate trainings
+ public lectures on technology
+ conference presentations
+ University teaching
+
+
