@@ -24,15 +24,15 @@ description: A virtual proof that name is awesome!
 
 # List of links in the navigation bar
 navbar-links:
-  About US:
-     - Team: "http:///berkeleydatasciencegroup.github.io/team"
-     - Conferences/Publications: "https://berkeleydatasciencegroup.github.io/presentations"
-  #Resources:
+ #Resources:
   #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   Portfolio: "https://berkeleydatasciencegroup.github.io/portfolio_"
   Training: "https://berkeleydatasciencegroup.github.io/training_contents"
   Services: "https://berkeleydatasciencegroup.github.io/Services"
   #blog: "https://berkeleydatasciencegroup.github.io/blog"
+  About US:
+    - Team: "http:///berkeleydatasciencegroup.github.io/team"
+    - Conferences & Publications: "https://berkeleydatasciencegroup.github.io/presentations"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
