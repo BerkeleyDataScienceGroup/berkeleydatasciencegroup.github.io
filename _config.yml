@@ -27,7 +27,7 @@ navbar-links:
  #Resources:
   #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   Portfolio: "https://berkeleydatasciencegroup.github.io/portfolio_"
-  Training: "https://berkeleydatasciencegroup.github.io/training_contents"
+  #Training: "https://berkeleydatasciencegroup.github.io/training_contents"
   Services: "https://berkeleydatasciencegroup.github.io/Services"
   #blog: "https://berkeleydatasciencegroup.github.io/blog"
   About US:
