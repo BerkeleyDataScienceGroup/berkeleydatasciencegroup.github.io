@@ -33,6 +33,11 @@ Our shop tackles unique business problems with data science solutions. We have a
 
 ## Recommender Systems
 
+
+<div class="col-md-4" markdown="1">
+  <img height="200px" class="center-block" src="../img/graphbluebiorevs.jpg">
+  </div>
+
 * The Paloma project Job keyword reccommendation, Making sense of the space between job seekers and talent seekers* 
 
 Ever notice how important knowing the exact keywords are when recruiting new candidates? It's like your HR team needs to not just know HR and recruiting, but they almost have to know how to do the jobs their recruiting for! We had a customer with this problem, and we built them a solution for identifying combinations of keywords from their pool of resumes.
@@ -41,21 +46,24 @@ Now, their recruiters just pull up an app, based on a knowledge graph built from
 
 Not only does this improve the quality of their team, but it also shortens their recruiting cycles!
 
-<div class="col-md-4" markdown="1">
-  <img height="200px" class="center-block" src="../img/graphbluebiorevs.jpg">
-  </div>
 
 ## Community Analysis
-
-* Pubmed lit - Quantifying scientists by studying thier publication behavior* 
-
-Data Science can provide actionalable intellegence on which people know each other, what they are interested in, what they are good at and who they have substantial realtionships with. With these goals in mind we conducted an analaysis of millons of publications recorded in the pubmed database. Using the record of collaborations and topic matter recorded in millions of publications we were able to get important insights about the worlds scientists and the scientific community overall.
 
 <div class="col-md-4" markdown="1">
   <img height="200px" class="center-block" src="../img/CommnityAnalysis.jpg">
   </div>
 
+* Pubmed lit - Quantifying scientists by studying thier publication behavior* 
+
+Data Science can provide actionalable intellegence on which people know each other, what they are interested in, what they are good at and who they have substantial realtionships with. With these goals in mind we conducted an analaysis of millons of publications recorded in the pubmed database. Using the record of collaborations and topic matter recorded in millions of publications we were able to get important insights about the worlds scientists and the scientific community overall.
+
+
+
 ## Value forcasting and win prediciton
+
+<div class="col-md-4" markdown="1">
+  <img height="200px" class="center-block" src="../img/IPOforecast.png">
+  </div>
 
 * The biorevoluitons project
 
@@ -67,9 +75,7 @@ Whether you need a tried and true AI or ML model--like a traditional recommender
 
 We've built some pretty cool solutions for customers great and small. If you can bring us a data-related business problem, we can build a data science solution for you too!
 
-<div class="col-md-4" markdown="1">
-  <img height="200px" class="center-block" src="../img/IPOforecast.png">
-  </div>
+
 
 # Machine Learning Bias Identification
  We've all heard about the bad press surrounding Big Tech and machine learning models. Google Search accused of bias! Facebook targeted ads discriminate! We wanted to know if these were true, so we built an AI that probes AI's and identifies their patterns, their biases, and their trends.
@@ -80,12 +86,10 @@ Along the way, we ended up building a tool that can be used to describe the infa
 
 # Natural Language Processing
  
+<div class="col-md-4" markdown="1">
+  <img height="200px" class="center-block" src="../img/Thoth_02.png">
+  </div>
+
 * Writing analysis with Thoth *
 
 Thoth, named after the scribe to the gods looks over your shoulder as you write. We built a natural language processing application capable of tracking the tone and emotional content of a piece as you write it. 
-
-<div class="col-md-4" markdown="1">
-  <img height="200px" class="center-block" src="../img/Thoth_02">
-  </div>
-
-
