@@ -16,10 +16,7 @@ baseurl: ""
 
 # Name of website
 title: Berkeley Data Science Group
-
-# Short description of your site
-description: A virtual proof that name is awesome!
-
+description: ""
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
@@ -144,7 +141,7 @@ excerpt_length: 50
 
 # Character used to separate site title and description in HTML document title
 # and RSS feed title
-title-separator: "-"
+# title-separator: "-"
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
@@ -249,6 +246,9 @@ plugins:
   # GoogleAnalytics:          # Add, if you want to track with Google Analytics
     # id: UA-130208469-1         # Required - replace with your tracking id
     # anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
+
+# Beautiful Jekyll / Dean Attali
+# 2fc73a3a967e97599c9763d05e564189
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
