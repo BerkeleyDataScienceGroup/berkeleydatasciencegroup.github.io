@@ -1,13 +1,25 @@
----
-layout: default
-title: 404 - Page not found DOH!
-permalink: /404.html
----
-
-<div class="text-center">
-  <h1>Whoops, this page doesn't exist. DOH!</h1>
-  <h1>Move along. (404 error)</h1>
-  <br/>
-
-  <img src="{{ site.baseurl }}/img/404-southpark.jpg" />
-</div>
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Redirecting to bds.group</title>
+  <meta http-equiv="refresh" content="0; URL=https://bds.group/">
+  <link rel="canonical" href="https://bds.group/">
+  <script>
+    (function () {
+      var target = "https://bds.group" + window.location.pathname + window.location.search + window.location.hash;
+      window.location.replace(target);
+    })();
+  </script>
+</head>
+<body>
+  <p>Redirecting to <a id="redirect-link" href="https://bds.group/">https://bds.group/</a>...</p>
+  <script>
+    (function () {
+      var target = "https://bds.group" + window.location.pathname + window.location.search + window.location.hash;
+      var link = document.getElementById("redirect-link");
+      if (link) link.href = target;
+    })();
+  </script>
+</body>
+</html>
